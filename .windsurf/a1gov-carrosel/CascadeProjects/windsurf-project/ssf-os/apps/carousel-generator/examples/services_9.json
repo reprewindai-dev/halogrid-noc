@@ -1,0 +1,12 @@
+{
+  "schema_id": "ssf_carousel_v1",
+  "channel": "SERVICES",
+  "carouselLength": 9,
+  "variantCount": 3,
+  "trendSkin": "GLITCHY_GLAM",
+  "destinationUrl": "https://shortformfactory.com/apply",
+  "serviceName": "SSF Pod Factory",
+  "coreProblem": "Operators sit on weeks of long-form content that never becomes lead-ready assets.",
+  "flatRatePrice": "$8k/mo",
+  "buyerType": "Podcaster"
+}

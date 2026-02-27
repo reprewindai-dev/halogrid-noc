@@ -1,0 +1,499 @@
+{
+  "runId": "run_9438544e-4384-414c-b2f0-d246a1c236f5",
+  "policyVersion": "v0.1.0",
+  "channel": "SERVICES",
+  "carouselLength": 5,
+  "variantCount": 1,
+  "trendSkin": "CLEAN_MINIMAL_PRO",
+  "destinationUrl": "https://shortformfactory.com/",
+  "variantOutputs": [
+    {
+      "variant": "A",
+      "slides": [
+        {
+          "title": "SSF Services Slide 1",
+          "body": "SERVICES narrative 1 focused on backlog kill-switches, async production, and agency-tier QA lines."
+        },
+        {
+          "title": "SSF Services Slide 2",
+          "body": "SERVICES narrative 2 focused on backlog kill-switches, async production, and agency-tier QA lines."
+        },
+        {
+          "title": "SSF Services Slide 3",
+          "body": "SERVICES narrative 3 focused on backlog kill-switches, async production, and agency-tier QA lines."
+        },
+        {
+          "title": "SSF Services Slide 4",
+          "body": "SERVICES narrative 4 focused on backlog kill-switches, async production, and agency-tier QA lines."
+        },
+        {
+          "title": "SSF Services Slide 5",
+          "body": "SERVICES narrative 5 focused on backlog kill-switches, async production, and agency-tier QA lines."
+        }
+      ],
+      "governance": {
+        "trace_id": "87932597-d8d4-4b78-ae0b-a83353d5c91f",
+        "tier": "Tier0",
+        "risk_scores": {
+          "fracture_score": 0,
+          "detrimental_score": 0,
+          "financial_risk_score": 0,
+          "constitutional_risk_score": 0,
+          "drift_delta": "c72d155d",
+          "abuse_score": 0
+        },
+        "status": "ok",
+        "output_json": {
+          "variant": "A",
+          "channel": "SERVICES",
+          "slides": [
+            {
+              "title": "SSF Services Slide 1",
+              "body": "SERVICES narrative 1 focused on backlog kill-switches, async production, and agency-tier QA lines."
+            },
+            {
+              "title": "SSF Services Slide 2",
+              "body": "SERVICES narrative 2 focused on backlog kill-switches, async production, and agency-tier QA lines."
+            },
+            {
+              "title": "SSF Services Slide 3",
+              "body": "SERVICES narrative 3 focused on backlog kill-switches, async production, and agency-tier QA lines."
+            },
+            {
+              "title": "SSF Services Slide 4",
+              "body": "SERVICES narrative 4 focused on backlog kill-switches, async production, and agency-tier QA lines."
+            },
+            {
+              "title": "SSF Services Slide 5",
+              "body": "SERVICES narrative 5 focused on backlog kill-switches, async production, and agency-tier QA lines."
+            }
+          ]
+        },
+        "model_used": "deterministic_fallback",
+        "latency_ms": 231,
+        "cost_estimate": 0,
+        "validator_results": [
+          {
+            "id": "schema_validator",
+            "label": "Schema Validator",
+            "passed": true,
+            "details": "Schema validated.",
+            "disclaimers": []
+          },
+          {
+            "id": "coherence_watchtower",
+            "label": "Coherence Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "quality_watchtower",
+            "label": "Quality Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "constitution_watchtower",
+            "label": "Constitution Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "citizenship_watchtower",
+            "label": "Citizenship Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          }
+        ],
+        "required_disclaimers": [],
+        "next_allowed_actions": [
+          "ship_output"
+        ]
+      }
+    }
+  ],
+  "copyArtifacts": {
+    "pinCopy": "## Variant A\nTitle: SSF Services Slide 1\nDescription: SERVICES narrative 1 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 2 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 3 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 4 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 5 focused on backlog kill-switches, async production, and agency-tier QA lines.\nCTA: SERVICES narrative 5 focused on backlog kill-switches, async production, and agency-tier QA lines.",
+    "boards": "ShortFormFactory · Operator Workflows\nAgency Retainer Fuel\nPodcast to Pinterest Transformations",
+    "keywords": {
+      "primary": [
+        "services",
+        "slide",
+        "narrative",
+        "focused",
+        "backlog",
+        "switches",
+        "async",
+        "production",
+        "agency",
+        "lines"
+      ],
+      "supporting": [],
+      "brand": [
+        "shortformfactory",
+        "ssf",
+        "clean-minimal-pro"
+      ]
+    }
+  },
+  "backgroundSummaries": [
+    {
+      "variant": "A",
+      "slideNumber": 1,
+      "governance": {
+        "trace_id": "02f2ad15-5c72-4825-8e18-88fbdb7b0290",
+        "tier": "Tier0",
+        "risk_scores": {
+          "fracture_score": 0,
+          "detrimental_score": 0,
+          "financial_risk_score": 0,
+          "constitutional_risk_score": 0,
+          "drift_delta": "697bf29e",
+          "abuse_score": 0
+        },
+        "status": "ok",
+        "output_json": {
+          "cssBackground": "linear-gradient(135deg, #fefefe, #f2f4f6)",
+          "skin": "CLEAN_MINIMAL_PRO"
+        },
+        "model_used": "deterministic_css_fallback",
+        "latency_ms": 77,
+        "cost_estimate": 0,
+        "validator_results": [
+          {
+            "id": "schema_validator",
+            "label": "Schema Validator",
+            "passed": true,
+            "details": "No schema provided; skipping.",
+            "disclaimers": []
+          },
+          {
+            "id": "coherence_watchtower",
+            "label": "Coherence Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; coherence not evaluated.",
+            "disclaimers": []
+          },
+          {
+            "id": "quality_watchtower",
+            "label": "Quality Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; quality check skipped.",
+            "disclaimers": []
+          },
+          {
+            "id": "constitution_watchtower",
+            "label": "Constitution Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "citizenship_watchtower",
+            "label": "Citizenship Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          }
+        ],
+        "required_disclaimers": [],
+        "next_allowed_actions": [
+          "ship_output"
+        ]
+      }
+    },
+    {
+      "variant": "A",
+      "slideNumber": 2,
+      "governance": {
+        "trace_id": "c0efc83f-a200-43ba-ab99-e77c3a5a9eff",
+        "tier": "Tier0",
+        "risk_scores": {
+          "fracture_score": 0,
+          "detrimental_score": 0,
+          "financial_risk_score": 0,
+          "constitutional_risk_score": 0,
+          "drift_delta": "8baa289e",
+          "abuse_score": 0
+        },
+        "status": "ok",
+        "output_json": {
+          "cssBackground": "linear-gradient(135deg, #fefefe, #f2f4f6)",
+          "skin": "CLEAN_MINIMAL_PRO"
+        },
+        "model_used": "deterministic_css_fallback",
+        "latency_ms": 84,
+        "cost_estimate": 0,
+        "validator_results": [
+          {
+            "id": "schema_validator",
+            "label": "Schema Validator",
+            "passed": true,
+            "details": "No schema provided; skipping.",
+            "disclaimers": []
+          },
+          {
+            "id": "coherence_watchtower",
+            "label": "Coherence Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; coherence not evaluated.",
+            "disclaimers": []
+          },
+          {
+            "id": "quality_watchtower",
+            "label": "Quality Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; quality check skipped.",
+            "disclaimers": []
+          },
+          {
+            "id": "constitution_watchtower",
+            "label": "Constitution Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "citizenship_watchtower",
+            "label": "Citizenship Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          }
+        ],
+        "required_disclaimers": [],
+        "next_allowed_actions": [
+          "ship_output"
+        ]
+      }
+    },
+    {
+      "variant": "A",
+      "slideNumber": 3,
+      "governance": {
+        "trace_id": "c186e3b1-9574-4580-9567-5b4d13f33d1b",
+        "tier": "Tier0",
+        "risk_scores": {
+          "fracture_score": 0,
+          "detrimental_score": 0,
+          "financial_risk_score": 0,
+          "constitutional_risk_score": 0,
+          "drift_delta": "379fe158",
+          "abuse_score": 0
+        },
+        "status": "ok",
+        "output_json": {
+          "cssBackground": "linear-gradient(135deg, #fefefe, #f2f4f6)",
+          "skin": "CLEAN_MINIMAL_PRO"
+        },
+        "model_used": "deterministic_css_fallback",
+        "latency_ms": 230,
+        "cost_estimate": 0,
+        "validator_results": [
+          {
+            "id": "schema_validator",
+            "label": "Schema Validator",
+            "passed": true,
+            "details": "No schema provided; skipping.",
+            "disclaimers": []
+          },
+          {
+            "id": "coherence_watchtower",
+            "label": "Coherence Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; coherence not evaluated.",
+            "disclaimers": []
+          },
+          {
+            "id": "quality_watchtower",
+            "label": "Quality Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; quality check skipped.",
+            "disclaimers": []
+          },
+          {
+            "id": "constitution_watchtower",
+            "label": "Constitution Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "citizenship_watchtower",
+            "label": "Citizenship Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          }
+        ],
+        "required_disclaimers": [],
+        "next_allowed_actions": [
+          "ship_output"
+        ]
+      }
+    },
+    {
+      "variant": "A",
+      "slideNumber": 4,
+      "governance": {
+        "trace_id": "2545a936-a0df-446a-baff-846ecf54290f",
+        "tier": "Tier0",
+        "risk_scores": {
+          "fracture_score": 0,
+          "detrimental_score": 0,
+          "financial_risk_score": 0,
+          "constitutional_risk_score": 0,
+          "drift_delta": "48e0468e",
+          "abuse_score": 0
+        },
+        "status": "ok",
+        "output_json": {
+          "cssBackground": "linear-gradient(135deg, #fefefe, #f2f4f6)",
+          "skin": "CLEAN_MINIMAL_PRO"
+        },
+        "model_used": "deterministic_css_fallback",
+        "latency_ms": 75,
+        "cost_estimate": 0,
+        "validator_results": [
+          {
+            "id": "schema_validator",
+            "label": "Schema Validator",
+            "passed": true,
+            "details": "No schema provided; skipping.",
+            "disclaimers": []
+          },
+          {
+            "id": "coherence_watchtower",
+            "label": "Coherence Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; coherence not evaluated.",
+            "disclaimers": []
+          },
+          {
+            "id": "quality_watchtower",
+            "label": "Quality Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; quality check skipped.",
+            "disclaimers": []
+          },
+          {
+            "id": "constitution_watchtower",
+            "label": "Constitution Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "citizenship_watchtower",
+            "label": "Citizenship Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          }
+        ],
+        "required_disclaimers": [],
+        "next_allowed_actions": [
+          "ship_output"
+        ]
+      }
+    },
+    {
+      "variant": "A",
+      "slideNumber": 5,
+      "governance": {
+        "trace_id": "ceebc895-cf0e-49a0-83bb-6aaed349ae6a",
+        "tier": "Tier0",
+        "risk_scores": {
+          "fracture_score": 0,
+          "detrimental_score": 0,
+          "financial_risk_score": 0,
+          "constitutional_risk_score": 0,
+          "drift_delta": "e2986d49",
+          "abuse_score": 0
+        },
+        "status": "ok",
+        "output_json": {
+          "cssBackground": "linear-gradient(135deg, #fefefe, #f2f4f6)",
+          "skin": "CLEAN_MINIMAL_PRO"
+        },
+        "model_used": "deterministic_css_fallback",
+        "latency_ms": 74,
+        "cost_estimate": 0,
+        "validator_results": [
+          {
+            "id": "schema_validator",
+            "label": "Schema Validator",
+            "passed": true,
+            "details": "No schema provided; skipping.",
+            "disclaimers": []
+          },
+          {
+            "id": "coherence_watchtower",
+            "label": "Coherence Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; coherence not evaluated.",
+            "disclaimers": []
+          },
+          {
+            "id": "quality_watchtower",
+            "label": "Quality Watchtower",
+            "passed": true,
+            "details": "Non-slide payload; quality check skipped.",
+            "disclaimers": []
+          },
+          {
+            "id": "constitution_watchtower",
+            "label": "Constitution Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          },
+          {
+            "id": "citizenship_watchtower",
+            "label": "Citizenship Watchtower",
+            "passed": true,
+            "details": "",
+            "disclaimers": []
+          }
+        ],
+        "required_disclaimers": [],
+        "next_allowed_actions": [
+          "ship_output"
+        ]
+      }
+    }
+  ],
+  "policyRegistry": {
+    "version": "v0.1.0",
+    "policies": [
+      {
+        "id": "ironmark_foundation",
+        "description": "Prevent deceptive guarantees, enforce SSF Ironmark runtime.",
+        "pillars": [
+          "No false ROI",
+          "Transparent pricing",
+          "Clear disclaimers"
+        ]
+      },
+      {
+        "id": "citizenship_baseline",
+        "description": "Ensure respectful, non-manipulative messaging and no hidden fees.",
+        "pillars": [
+          "No dark patterns",
+          "Plain-language pricing",
+          "Opt-in clarity"
+        ]
+      }
+    ]
+  },
+  "disclaimers": [],
+  "createdAt": "2026-02-27T13:17:33.803Z",
+  "ledgerHeadBefore": {
+    "hash": "7810a218ddf65f143ad986e549f04c59ce6562d67d787423d5beadfde02f7e54",
+    "index": 418
+  }
+}

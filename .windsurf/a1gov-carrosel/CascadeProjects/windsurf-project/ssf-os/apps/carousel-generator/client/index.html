@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SSF OS — Pinterest Carousel Generator</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">SSF OS — Carousel Lab</div>
+    <div class="ledger-status" id="ledger-status">Ledger head pending…</div>
+  </header>
+
+  <main>
+    <section class="generator-panel">
+      <h2>Generate Carousel Pack</h2>
+      <form id="config-form">
+        <div class="field-row">
+          <label>Channel</label>
+          <select name="channel" required>
+            <option value="SERVICES">Services</option>
+            <option value="SHOP">Shop</option>
+          </select>
+        </div>
+        <div class="field-row">
+          <label>Carousel Length</label>
+          <div class="segmented">
+            <label><input type="radio" name="carouselLength" value="5" checked />5 cards</label>
+            <label><input type="radio" name="carouselLength" value="9" />9 cards</label>
+          </div>
+        </div>
+        <div class="field-row">
+          <label>Variant Count</label>
+          <div class="segmented">
+            <label><input type="radio" name="variantCount" value="1" checked />1</label>
+            <label><input type="radio" name="variantCount" value="3" />3</label>
+            <label><input type="radio" name="variantCount" value="5" />5</label>
+          </div>
+        </div>
+        <div class="field-row">
+          <label>Trend Skin</label>
+          <select name="trendSkin">
+            <option value="CLEAN_MINIMAL_PRO">Clean Minimal Pro</option>
+            <option value="COOL_BLUE_GLACIER">Cool Blue Glacier</option>
+            <option value="GUMMY_GLOSS">Gummy Gloss</option>
+            <option value="GLITCHY_GLAM">Glitchy Glam</option>
+            <option value="EDITORIAL_LUXE">Editorial Luxe</option>
+            <option value="CREATOR_DESK">Creator Desk</option>
+          </select>
+        </div>
+        <div class="field-row">
+          <label>Destination URL</label>
+          <input type="url" name="destinationUrl" placeholder="https://shortformfactory.com/" required />
+        </div>
+
+        <div class="channel-fields" data-channel="SERVICES">
+          <h3>Services Inputs</h3>
+          <input type="text" name="serviceName" placeholder="Service Name" />
+          <textarea name="coreProblem" placeholder="Core problem solved"></textarea>
+          <input type="text" name="flatRatePrice" placeholder="Flat rate price label" />
+          <select name="buyerType">
+            <option value="">Buyer Type</option>
+            <option value="Agency">Agency</option>
+            <option value="Coach">Coach</option>
+            <option value="Podcaster">Podcaster</option>
+            <option value="Consultant">Consultant</option>
+            <option value="LocalBiz">Local Business</option>
+          </select>
+        </div>
+
+        <div class="channel-fields" data-channel="SHOP" hidden>
+          <h3>Shop Inputs</h3>
+          <input type="text" name="productName" placeholder="Product name" />
+          <textarea name="offerSummary" placeholder="Offer summary"></textarea>
+          <input type="text" name="price" placeholder="Price" />
+          <textarea name="includesBullets" placeholder="Includes (one per line)"></textarea>
+          <textarea name="whoItsForBullets" placeholder="Who it is for (one per line)"></textarea>
+        </div>
+
+        <button type="submit">Generate & Download</button>
+      </form>
+      <div class="response" id="response"></div>
+    </section>
+
+    <section class="admin-panel">
+      <h2>Trace Explorer</h2>
+      <div class="runs" id="runs"></div>
+      <div class="log-view" id="log-view"></div>
+    </section>
+  </main>
+
+  <script src="./main.js" type="module"></script>
+</body>
+</html>

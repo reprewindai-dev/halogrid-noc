@@ -1,0 +1,4 @@
+## Variant A
+Title: SSF Services Slide 1
+Description: SERVICES narrative 1 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 2 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 3 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 4 focused on backlog kill-switches, async production, and agency-tier QA lines. SERVICES narrative 5 focused on backlog kill-switches, async production, and agency-tier QA lines.
+CTA: SERVICES narrative 5 focused on backlog kill-switches, async production, and agency-tier QA lines.

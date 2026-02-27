@@ -1,0 +1,22 @@
+{
+  "schema_id": "ssf_carousel_v1",
+  "channel": "SHOP",
+  "carouselLength": 9,
+  "variantCount": 5,
+  "trendSkin": "GUMMY_GLOSS",
+  "destinationUrl": "https://shortformfactory.shop/products/creator-desk",
+  "productName": "Creator Desk Pinterest Suite",
+  "offerSummary": "Nine-card Pinterest storytelling system for creator workflows with proof stacks and FAQ slides.",
+  "price": "$499",
+  "includesBullets": [
+    "9-card editorial storyline",
+    "FAQ + comparison slides",
+    "PSD + Figma master files",
+    "Copy deck with CTAs"
+  ],
+  "whoItsForBullets": [
+    "Video editors running retainers",
+    "Course creators proving outcomes",
+    "Ecom founders differentiating"
+  ]
+}

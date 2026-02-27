@@ -1,0 +1,22 @@
+{
+  "schema_id": "ssf_carousel_v1",
+  "channel": "SHOP",
+  "carouselLength": 5,
+  "variantCount": 1,
+  "trendSkin": "EDITORIAL_LUXE",
+  "destinationUrl": "https://shortformfactory.shop/products/pin-kit",
+  "productName": "SSF Pinterest Drop Kit",
+  "offerSummary": "Premium Pinterest carousel templates with copy vaults and PSD layers ready for agency use.",
+  "price": "$297",
+  "includesBullets": [
+    "5x Pinterest-native 2:3 layouts",
+    "Pin copy vault with 30 hooks",
+    "Layered PSD + Figma files",
+    "Texture + typography presets"
+  ],
+  "whoItsForBullets": [
+    "Agencies packaging retainers",
+    "Creators launching drops",
+    "Shops needing Pinterest proof"
+  ]
+}

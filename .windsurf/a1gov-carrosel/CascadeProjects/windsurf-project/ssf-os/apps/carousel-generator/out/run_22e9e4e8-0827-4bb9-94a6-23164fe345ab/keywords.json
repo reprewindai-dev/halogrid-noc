@@ -1,0 +1,20 @@
+{
+  "primary": [
+    "services",
+    "slide",
+    "narrative",
+    "focused",
+    "backlog",
+    "switches",
+    "async",
+    "production",
+    "agency",
+    "lines"
+  ],
+  "supporting": [],
+  "brand": [
+    "shortformfactory",
+    "ssf",
+    "clean-minimal-pro"
+  ]
+}

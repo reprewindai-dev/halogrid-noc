@@ -1,0 +1,48 @@
+[
+  {
+    "schema_id": "ssf_carousel_v1",
+    "channel": "SERVICES",
+    "carouselLength": 5,
+    "variantCount": 1,
+    "trendSkin": "CLEAN_MINIMAL_PRO",
+    "destinationUrl": "https://shortformfactory.com/",
+    "serviceName": "ShortFormFactory",
+    "coreProblem": "Content backlog is killing launch windows and draining agency margins.",
+    "flatRatePrice": "$6k/mo",
+    "buyerType": "Agency"
+  },
+  {
+    "schema_id": "ssf_carousel_v1",
+    "channel": "SERVICES",
+    "carouselLength": 9,
+    "variantCount": 3,
+    "trendSkin": "GLITCHY_GLAM",
+    "destinationUrl": "https://shortformfactory.com/apply",
+    "serviceName": "SSF Pod Factory",
+    "coreProblem": "Operators sit on weeks of long-form content that never becomes lead-ready assets.",
+    "flatRatePrice": "$8k/mo",
+    "buyerType": "Podcaster"
+  },
+  {
+    "schema_id": "ssf_carousel_v1",
+    "channel": "SHOP",
+    "carouselLength": 9,
+    "variantCount": 5,
+    "trendSkin": "GUMMY_GLOSS",
+    "destinationUrl": "https://shortformfactory.shop/products/creator-desk",
+    "productName": "Creator Desk Pinterest Suite",
+    "offerSummary": "Nine-card Pinterest storytelling system for creator workflows with proof stacks and FAQ slides.",
+    "price": "$499",
+    "includesBullets": [
+      "9-card editorial storyline",
+      "FAQ + comparison slides",
+      "PSD + Figma master files",
+      "Copy deck with CTAs"
+    ],
+    "whoItsForBullets": [
+      "Video editors running retainers",
+      "Course creators proving outcomes",
+      "Ecom founders differentiating"
+    ]
+  }
+]
