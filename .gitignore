@@ -1,13 +1,1 @@
-*
-!.gitignore
-!README.md
-!USER_DOC.md
-!QUALITY_CONTROL.md
-!TESTING_VERIFICATION.md
-!DOPAMINE_UX_GUIDE.md
-!APP_COMPLETION_TRACKER.md
-!APP_INVENTORY.md
-!COMPLETE_APP_LIST.md
-!CAROUSEL_APP_ANALYSIS.md
-!.cursor/
-!.cursor/**
+node_modules
